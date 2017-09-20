@@ -1,0 +1,29 @@
+name: RandomTeleport
+author: simplebert
+website:
+description: Teleport to random coordinates
+version: 1.0.0_RELEASE
+api: [3.0.0]
+main: pl\simplebert\rtp\RTP
+
+commands:
+  randomteleport:
+    aliases: [rtp, randomtp]
+    description: Teleport to random coordinates
+    usage: /randomteleport [-, addblock, deleteblock, reload, info]
+
+permissions:
+  randomteleport:
+    default: op
+
+    children:
+      teleport:
+        default: op
+      reload:
+        default: op
+      info:
+        default: op
+      addblock:
+        default: op
+      delblock:
+        default: op
