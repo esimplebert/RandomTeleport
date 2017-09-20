@@ -1,0 +1,9 @@
+cmd: false #allows to use randomtp with command
+levels: [world] #levels where randomtp is allowed
+
+radius:
+  #axis: [min, max]
+  x: [-3000, 3000]
+  z: [-3000, 3000]
+
+blocks:
