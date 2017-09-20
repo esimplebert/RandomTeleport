@@ -3,7 +3,7 @@ author: simplebert
 website:
 description: Teleport to random coordinates
 version: 1.0.0_RELEASE
-api: [3.0.0]
+api: [3.0.0, 3.0.1]
 main: pl\simplebert\rtp\RTP
 
 commands:
