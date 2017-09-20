@@ -1,14 +1,14 @@
 # RandomTeleport
 
-**Author: simplebert**
-**Version: 1.0.0_RELEASE**
-**API: 3.0.0, 3.0.1**
-
-Performance: https://youtu.be/G2AFPOqQy8M
-Website: -
-
-Tested on GenisysPro v1.1dev (5437e0f) implementing API 3.0.1
-
+**Author: simplebert**<br/>
+**Version: 1.0.0_RELEASE**<br/>
+**API: 3.0.0, 3.0.1**<br/>
+<br/>
+Performance: https://youtu.be/G2AFPOqQy8M<br/>
+Website: -<br/>
+<br/>
+Tested on GenisysPro v1.1dev (5437e0f) implementing API 3.0.1<br/>
+<br/>
 ## Permissions
 * randomteleport.teleport - Allows to use random teleport
 * randomteleport.addblock - Allows to add the block to the list
