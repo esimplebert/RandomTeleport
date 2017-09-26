@@ -6,6 +6,7 @@
 <br/>
 Performance: https://youtu.be/G2AFPOqQy8M<br/>
 Website: -<br/>
+[Download latest version](https://github.com/esimplebert/RandomTeleport/releases/download/1.0.0/RandomTeleport-1.0.0_RELEASE.phar) <br/>
 <br/>
 Tested on GenisysPro v1.1dev (5437e0f) implementing API 3.0.1<br/>
 <br/>
